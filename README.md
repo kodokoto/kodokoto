@@ -1,6 +1,6 @@
 ## Hello 👋, I'm Jorge
 
-### I'm a **Software Developer** interested in:
+### I'm a **Software Developer** working in:
 - 🎵 Audio Programming
 - 🛠 Compiler Architecture & Programming Language Theory
 - 🎮 Video Game Development
