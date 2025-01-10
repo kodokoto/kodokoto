@@ -1,5 +1,7 @@
 ## Hello 👋, I'm Jorge
 
+<!---
+
 ### I'm a **Software Developer** working in:
 - 🎵 Audio Programming
 - 🛠 Compiler Architecture & Programming Language Theory
@@ -7,16 +9,19 @@
 - 🧠 Machine Learning
 - 🌐 Full-Stack Web Development
 - 🎨 Procedural Audio-Reactive Graphics
+-->
 
 ### **Working On:**
 - A custom programming language tailored for audio programming, currently leveraging LLVM but might switch to HVM 👀.
 - A platform to promote transparent, source-backed journalism. This platform enables users to support their favourite publishers based on the merit of the content.
 - A 2.5D procedurally generated puzzle game using the Godot engine.
 
+<!---
+
 ### **Learning about:**
 - Interaction Combinators and HVM
 - Using shaders to process audio DSP
-
+-->
 I'm always open to talking to other developers and collaborating on fun and interesting projects, so please feel free to contact me!
 
 ### 🌐 Socials:
